@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jaimeduffy/SOS2425-14-sandbox/issues"
   },
-  "homepage": "https://github.com/jaimeduffy/SOS2425-14-sandbox#readme"
+  "homepage": "https://github.com/jaimeduffy/SOS2425-14-sandbox#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
